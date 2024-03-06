@@ -15,9 +15,9 @@ Currently, I'm a Community Team Member 🙍🏽‍♂️ [@annahico](https://git
 
 **Languages and Tools:**  
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/annahico)](https://github.com/annahcio) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/annahico)](https://github.com/annahico) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/annahico)](https://github.com/annahico) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/annahico)](https://github.com/annahico) 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/annahico)](https://github.com/annahico)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/annahico)](https://github.com/annahico)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/annahico)](https://github.com/annahico) 
