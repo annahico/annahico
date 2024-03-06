@@ -10,7 +10,7 @@
 Hi there, I'm **Anna Hidalgo Costa**, a **Full Stack Developer**  🚀 from Barcelona, Spain.  Currently, I'm a Community Team Member 🙍🏽‍♂️ [@annahico](https://github.com/annahico).
 
    <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
+<br />
 
 **Languages and Tools:**  
 
@@ -22,6 +22,11 @@ Hi there, I'm **Anna Hidalgo Costa**, a **Full Stack Developer**  🚀 from Barc
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<br />
+
 ![Anna's github stats](https://github-readme-stats.vercel.app/api?username=annahico&show_icons=true&hide_border=true)
+
+<br />
+<br />
 
 ⭐️ From [annahico](https://github.com/annahico)
