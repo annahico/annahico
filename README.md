@@ -1,14 +1,15 @@
 ### Hi I'm Anna 😎
 
+## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
 <a href="https://www.linkedin.com/in/annahico/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+Hi there, I'm **Anna Hidalgo Costa**, a **Full Stack Developer**  🚀 from Barcelona, Spain. 
 <br />
+Currently, I'm a Community Team Member 🙍🏽‍♂️ [@annahico](https://github.com/annahico).
 
-Hi there, I'm **Anna Hidalgo Costa**, a **Full Stack Developer**  🚀 from Barcelona, Spain.  Currently, I'm a Community Team Member 🙍🏽‍♂️ [@annahico](https://github.com/annahico).
-
-<br />
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
