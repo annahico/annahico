@@ -22,7 +22,9 @@ Currently, I'm a Community Team Member 🙍🏽‍♂️ [@annahico](https://git
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/annahico)](https://github.com/annahico)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/annahico)](https://github.com/annahico) 
 
-![Anna's github stats](https://github-readme-stats.vercel.app/api?username=annahico&show_icons=true&hide_border=true)
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=annahico&show_icons=true&theme=gotham" alt="annahico" />
 
 
 ⭐️ From [annahico](https://github.com/annahico)
