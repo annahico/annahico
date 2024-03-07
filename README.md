@@ -7,13 +7,16 @@
 </a>
 
 Hi there, I'm **Anna Hidalgo Costa**, a **Full Stack Developer**  🚀 from Barcelona, Spain. 
+ 
 <br />
 Currently, I'm a Community Team Member 🙍🏽‍♂️ [@annahico](https://github.com/annahico).
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 </br>
- 
+
+
+  
 <h2>Languages and Tools:</h2> 
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/annahico)](https://github.com/annahico) 
