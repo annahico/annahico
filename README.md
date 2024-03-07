@@ -1,16 +1,15 @@
-### Hi I'm Anna 😎
-
+<h1>Hi I'm Anna 😎</h1>
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="230" /
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <a href="https://www.linkedin.com/in/annahico/">
   <img align="left" alt="Anna's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<div>
-<p>Hi there, I'm **Anna Hidalgo Costa**, a a passionate and diligent student at GeekHub Academy 🚀 from Barcelona, Spain., forging a path toward becoming a proficient **Full Stack Developer**. Through a combination of theoretical knowledge and hands-on experience, I am dedicated to creating a future where technology transforms possibilities. Join me on this exciting journey as I continue to learn, grow, and make my mark in the dynamic world of Full Stack Development.</p>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="230" />
-<p>Currently, I'm a Community Team Member 🙍🏽‍♂️ [@annahico](https://github.com/annahico).</p>
-</div>
+
+Hi there, I'm **Anna Hidalgo Costa**, a a passionate and diligent student at GeekHub Academy 🚀 from Barcelona, Spain., forging a path toward becoming a proficient **Full Stack Developer**. Through a combination of theoretical knowledge and hands-on experience, I am dedicated to creating a future where technology transforms possibilities. Join me on this exciting journey as I continue to learn, grow, and make my mark in the dynamic world of Full Stack Development.
+Currently, I'm a Community Team Member 🙍🏽‍♂️ [@annahico](https://github.com/annahico).
+
 
 
 <h2>Languages and Tools:</h2> 
