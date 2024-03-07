@@ -10,9 +10,10 @@ Hi there, I'm **Anna Hidalgo Costa**, a **Full Stack Developer**  🚀 from Barc
 <br />
 Currently, I'm a Community Team Member 🙍🏽‍♂️ [@annahico](https://github.com/annahico).
 
-
  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
+</br>
+ 
 **Languages and Tools:**  
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/annahico)](https://github.com/annahico) 
@@ -23,7 +24,7 @@ Currently, I'm a Community Team Member 🙍🏽‍♂️ [@annahico](https://git
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/annahico)](https://github.com/annahico) 
 
 📈 My GitHub Stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=annahico&show_icons=true&theme=gotham" alt="annahico" />
+<img src="https://github-readme-stats.vercel.app/api?username=annahico&show_icons=true&theme=gotham" alt="annahico" />
 
 
 ⭐️ From [annahico](https://github.com/annahico)
