@@ -28,4 +28,4 @@ Currently, I'm a Community Team Member 🙍🏽‍♂️ [@annahico](https://git
 
 </br>
 
-⭐️ From [annahico](https://github.com/annahico)
+
