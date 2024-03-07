@@ -9,7 +9,7 @@
 
 Hi there, I'm **Anna Hidalgo Costa**, a **Full Stack Developer**  🚀 from Barcelona, Spain.
 Currently, I'm a Community Team Member 🙍🏽‍♂️ [@annahico](https://github.com/annahico).
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="230" />
 
 
 
