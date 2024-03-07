@@ -3,7 +3,7 @@
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <a href="https://www.linkedin.com/in/annahico/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Anna's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 Hi there, I'm **Anna Hidalgo Costa**, a **Full Stack Developer**  🚀 from Barcelona, Spain. 
@@ -24,7 +24,8 @@ Currently, I'm a Community Team Member 🙍🏽‍♂️ [@annahico](https://git
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/annahico)](https://github.com/annahico) 
 
 📈 My GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=annahico&show_icons=true&theme=gotham" alt="annahico" />
+<img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=annahico&show_icons=true&theme=gotham" alt="annahico" />
 
+</br>
 
 ⭐️ From [annahico](https://github.com/annahico)
