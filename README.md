@@ -20,7 +20,10 @@ Currently, I'm a Community Team Member 🙍🏽‍♂️ [@annahico](https://git
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/annahico)](https://github.com/annahico) 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=TypeScript&link=https://github.com/annahico)](https://github.com/annahico) 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/annahico)](https://github.com/annahico)
+[![Redux](https://img.shields.io/badge/-Reduxt-black?style=flat&logo=redux&link=https://github.com/annahico)](https://github.com/annahico)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/annahico)](https://github.com/annahico)
+[![Express](https://img.shields.io/badge/-Express-green?style=flat&logo=Express&link=https://github.com/annahico)](https://github.com/annahico)
+[![Sequelize](https://img.shields.io/badge/-Sequelize-green?style=flat&logo=Sequuelize&link=https://github.com/annahico)](https://github.com/annahico)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/annahico)](https://github.com/annahico) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annahico&size_weight=0.5&count_weight=0.5)
