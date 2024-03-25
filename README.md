@@ -1,4 +1,4 @@
-<h1>Hi I'm Anna 😎</h1>
+<h1>Hi, I'm Anna 😎</h1>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
 
 
