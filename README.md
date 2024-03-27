@@ -25,7 +25,7 @@ Currently, I'm a Community Team Member 🙍🏽‍♂️ [@annahico](https://git
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annahico&layout=compact&&langs_count=8"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&&langs_count=8"/>
 
 <h2>📈 My GitHub Stats:</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=annahico&amp;show_icons=true" alt="GitHub Stats"></p>
