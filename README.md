@@ -34,19 +34,3 @@ Currently, I'm a Community Team Member 🙍🏽‍♂️ [@annahico](https://git
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
   </a>
 
-//normal commits
-stats.totalComita = user.contributionsCollection.totalCommitContributions;
-
-//if include_all_commits then just get that,
-//since totalCommitsFetcher already sends totalComits no need to +=
-if (include_all_commits) {
-  stats.totalComits = await totalCommitsFetcher(annahico);
-}
-
-//if count_private the add private commits to totalCommits so far
-if (count_private) {
-  stats.totalComits +=
-    user.contributionCollection.restrictedContributionsCounts;
-    }
-
-
