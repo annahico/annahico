@@ -3,7 +3,7 @@
 
 
 <div>
-<p>Hi there, I'm <strong>Anna Hidalgo Costa</strong>, a passionate and diligent student at GeekHub Academy 🚀 from Barcelona, Spain, forging a path toward becoming a proficient <strong>Full Stack Developer</strong>. Through a combination of theoretical knowledge and hands-on experience, I am dedicated to creating a future where technology transforms possibilities. Join me on this exciting journey as I continue to learn, grow, and make my mark in the dynamic world of Full Stack Development.</p>
+<p>Hi there, I'm <strong>Anna Hidalgo Costa</strong>, a Junior Full Stack Developer with experience in web technologies such as HTML, CSS, and JavaScript, and advanced proficiency in frameworks and libraries like React and Node.js. I have knowledge in SQL databases and backend implementation with PHP and TypeScript. I am passionate about creating intuitive and efficient user interfaces, and I possess a strong ability to solve technical problems. I am committed to continuous learning and improving my skills to effectively contribute to web development projects.</p>
 </div>
 
 Currently, I'm a Community Team Member 🙍🏽‍♂️ [@annahico](https://github.com/annahico).
