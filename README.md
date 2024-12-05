@@ -3,7 +3,7 @@
 
 
 <div>
-<p>Hi there, I'm <strong>Anna Hidalgo Costa</strong>, a Junior Full Stack Developer and Data Analyst with experience in web technologies such as <strong>HTML5</strong>,<strong> CSS3</strong> and <strong>JavaScript</strong>, and advanced proficiency in frameworks and libraries like <strong>React</strong> and <strong>Node.js</strong>. I have knowledge in <strong>SQL</strong> and <strong>MondoDB</strong> databases and backend implementation with <strong>TypeScript</strong> and <strong>Python</strong>. I am passionate about creating intuitive and efficient user interfaces, and I possess a strong ability to solve technical problems. I am committed to continuous learning and improving my skills to effectively contribute to web development projects.</p>
+<p>Hi there, I'm <strong>Anna Hidalgo Costa</strong>, a Junior Full Stack Developer and Data Analyst with experience in web technologies such as <strong>HTML5</strong>,<strong> CSS3</strong> and <strong>JavaScript</strong>, and advanced proficiency in frameworks and libraries like <strong>React</strong> and <strong>Node.js</strong>. I have knowledge in <strong>MySQL</strong> and <strong>MondoDB</strong> databases and backend implementation with <strong>TypeScript</strong> and <strong>Python</strong>. I am passionate about creating intuitive and efficient user interfaces, and I possess a strong ability to solve technical problems. I am committed to continuous learning and improving my skills to effectively contribute to web development projects.</p>
 </div>
 
 Currently, I'm a Community Team Member 🙍🏽‍♂️ [@annahico](https://github.com/annahico).
