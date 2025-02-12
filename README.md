@@ -3,7 +3,16 @@
 
 
 <div>
-<p>Hi there, I'm <strong>Anna Hidalgo Costa</strong>, a Junior Full Stack Developer and Data Analyst with experience in web technologies such as <strong>HTML5</strong>,<strong> CSS3</strong> and <strong>JavaScript</strong>, and advanced proficiency in frameworks and libraries like <strong>React</strong> and <strong>Node.js</strong>. I have knowledge in <strong>MySQL</strong> and <strong>MondoDB</strong> databases and backend implementation with <strong>TypeScript</strong> and <strong>Python</strong>. I am passionate about creating intuitive and efficient user interfaces, and I possess a strong ability to solve technical problems. I am committed to continuous learning and improving my skills to effectively contribute to web development projects.</p>
+<p>🎓 Proactive Learner with a Passion for Growth
+I am a Junior Full Stack Developer and Data Analyst with a solid foundation in web technologies like HTML5, CSS3, and JavaScript, complemented by experience with frameworks such as React and Node.js. My backend expertise includes TypeScript and Python, alongside database management using MySQL and MongoDB.
+
+🚀 Skills That Drive Results
+I specialize in crafting intuitive, efficient user interfaces and solving technical challenges through innovative solutions. My commitment to continuous learning—reflected in my completion of bootcamps and self-driven projects—ensures that I stay updated with the latest industry trends and tools.
+
+💬 Building Connections Through Knowledge
+I actively share my learning journey and experiences, sparking conversations and fostering meaningful connections. Whether through my coding projects or data analysis insights, I aim to contribute value to collaborative, dynamic teams.
+
+Let’s connect and create impactful solutions together!</p>
 </div>
 
 Currently, I'm a Community Team Member 🙍🏽‍♂️ [@annahico](https://github.com/annahico).
