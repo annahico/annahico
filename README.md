@@ -27,6 +27,8 @@ Currently, I'm a Community Team Member 🙍🏽‍♂️ [@annahico](https://git
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annahico&layout=compact)](https://github.com/annahico/github-readme-stats)
 
