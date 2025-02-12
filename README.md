@@ -4,13 +4,13 @@
 
 <div>
 <p>🎓 Proactive Learner with a Passion for Growth </p>
-I am a Junior Full Stack Developer and Data Analyst with a solid foundation in web technologies like HTML5, CSS3, and JavaScript, complemented by experience with frameworks such as React and Node.js. My backend expertise includes TypeScript and Python, alongside database management using MySQL and MongoDB.
+I am a Junior Full Stack Developer and Data Analyst with a solid foundation in web technologies like HTML5, CSS3, and JavaScript, complemented by experience with frameworks such as React and Node.js. My backend expertise includes TypeScript and Python, alongside database management using MySQL and MongoDB.</p>
 
 <p>🚀 Skills That Drive Results </p>
-I specialize in crafting intuitive, efficient user interfaces and solving technical challenges through innovative solutions. My commitment to continuous learning—reflected in my completion of bootcamps and self-driven projects—ensures that I stay updated with the latest industry trends and tools.
+I specialize in crafting intuitive, efficient user interfaces and solving technical challenges through innovative solutions. My commitment to continuous learning—reflected in my completion of bootcamps and self-driven projects—ensures that I stay updated with the latest industry trends and tools.</p>
 
 <p>💬 Building Connections Through Knowledge </p>
-I actively share my learning journey and experiences, sparking conversations and fostering meaningful connections. Whether through my coding projects or data analysis insights, I aim to contribute value to collaborative, dynamic teams.
+I actively share my learning journey and experiences, sparking conversations and fostering meaningful connections. Whether through my coding projects or data analysis insights, I aim to contribute value to collaborative, dynamic teams.</p>
 
 <p>Let’s connect and create impactful solutions together!</p>
 </div>
