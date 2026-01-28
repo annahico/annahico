@@ -1,13 +1,15 @@
-<p align="right">
-  <img src="img/logo_blanc.png" alt="Anna Costa Logo" width="150px">
-</p>
-
-<h1 style="display: inline;">Hi, I'm Anna 😎</h1>
-
-<br/>
+<table border="0">
+  <tr>
+    <td width="100%">
+      <h1>Hi, I'm Anna 😎</h1>
+    </td>
+    <td>
+      <img src="img/logo_blanc.png" alt="Anna Costa Logo" width="150px">
+    </td>
+  </tr>
+</table>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
-
 <div>
 <p>🎓 **Proactive Learner with a Passion for Growth**</p>
 <p>I am a Junior Full Stack Developer with a solid foundation in web technologies like HTML5, CSS3, and JavaScript, complemented by experience with frameworks such as React and Node.js. My backend expertise includes TypeScript and Python, alongside database management using MySQL and MongoDB.</p>
