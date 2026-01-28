@@ -1,9 +1,7 @@
-<p align="left">
-  <img src="img/logo_blanc.png" alt="Anna Costa Logo" width="120" align="right" />
-  <h1>Hi, I'm Anna 😎</h1>
-</p>
-
-<br clear="right">
+<h1>
+  Hi, I'm Anna 😎
+  <img src="img/logo_blanc.png" alt="Anna Costa Logo" width="130" align="right">
+</h1>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
 
