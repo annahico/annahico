@@ -1,10 +1,15 @@
-<p align="center">
-  <img src="img/logo_blanc.png" alt="Anna Costa Logo" width="200px">
-</p>
-<h1>Hi, I'm Anna 😎</h1>
+<table width="100%">
+  <tr>
+    <td align="left" valign="bottom" style="width: 100%;">
+      <h1>Hi, I'm Anna 😎</h1>
+    </td>
+    <td align="right" valign="bottom">
+      <img src="img/logo_blanc.png" alt="Anna Costa Logo" width="130">
+    </td>
+  </tr>
+</table>
+
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
-
-
 <div>
 <p>🎓 Proactive Learner with a Passion for Growth </p>
 I am a Junior Full Stack Developer with a solid foundation in web technologies like HTML5, CSS3, and JavaScript, complemented by experience with frameworks such as React and Node.js. My backend expertise includes TypeScript and Python, alongside database management using MySQL and MongoDB.</p>
@@ -19,8 +24,6 @@ I actively share my learning journey and experiences, sparking conversations and
 </div>
 
 Currently, I'm a Community Team Member 🙍🏽‍♂️ [@annahico](https://github.com/annahico).
-
-
 
 <h2>Languages and Tools:</h2> 
 
@@ -43,13 +46,10 @@ Currently, I'm a Community Team Member 🙍🏽‍♂️ [@annahico](https://git
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annahico&layout=compact)](https://github.com/annahico/github-readme-stats)
 
-
 <h2>📈 My GitHub Stats:</h2>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=annahico&count_private=true" alt="GitHub Stats"></p>
-  <a href="https://www.buymeacoffee.com/annahico" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-  </a>
-
+<p><img src="https://github-readme-stats.vercel.app/api?username=annahico&count_private=true" alt="GitHub Stats"></p>
+<a href="https://www.buymeacoffee.com/annahico" target="_blank" rel="noreferrer nofollow">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+</a>
