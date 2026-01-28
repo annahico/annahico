@@ -4,7 +4,7 @@
       <h1>Hi, I'm Anna 😎</h1>
     </td>
     <td align="right" valign="bottom">
-      <img src="logo_blanc.jpg" alt="Anna Costa Logo" width="130">
+      <img src="img/logo_blanc.jpg" alt="Anna Costa Logo" width="130">
     </td>
   </tr>
 </table>
