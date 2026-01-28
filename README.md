@@ -1,12 +1,15 @@
 <table width="100%">
-  <tr>
-    <td>
-      <h1>Hi, I'm Anna 😎</h1>
-    </td>
-    <td align="right">
-      <img src="img/logo_blanc.png" alt="Anna Costa Logo" width="130">
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th width="100%" align="left">
+        <br>
+        <span style="font-size: 2.5em;">Hi, I'm Anna 😎</span>
+      </th>
+      <th align="right">
+        <img src="img/logo_blanc.png" alt="Anna Costa Logo" width="130">
+      </th>
+    </tr>
+  </thead>
 </table>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
