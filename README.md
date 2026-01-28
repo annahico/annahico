@@ -5,7 +5,7 @@
       <span style="font-size: 2.5em; font-weight: bold;">Hi, I'm Anna 😎</span>
     </td>
     <td align="right" style="border: none;">
-      <img src="logo_blanc.jpg" alt="Anna Costa Logo" width="130">
+      <img src="img/logo_blanc.jpg" alt="Anna Costa Logo" width="130">
     </td>
   </tr>
 </table>
