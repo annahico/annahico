@@ -1,15 +1,13 @@
 <table width="100%">
   <tr>
-    <td align="left" valign="bottom">
-      <br>
-      <span style="font-size: 2.5em; font-weight: bold;">Hi, I'm Anna 😎</span>
+    <td align="left" valign="bottom" style="width: 100%;">
+      <h1>Hi, I'm Anna 😎</h1>
     </td>
     <td align="right" valign="bottom">
-      <img src="img/logo_blanc.png" alt="Anna Costa Logo" width="130">
+      <img src="logo_blanc.jpg" alt="Anna Costa Logo" width="130">
     </td>
   </tr>
 </table>
-<hr>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
 <div>
