@@ -1,9 +1,13 @@
-<div style="margin-bottom: -40px;">
-  <img src="img/logo_blanc.png" alt="Anna Costa Logo" width="150" align="right">
-  <h1>Hi, I'm Anna 😎</h1>
-</div>
-
-<br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" valign="middle" border="0">
+      <h1>Hi, I'm Anna 😎</h1>
+    </td>
+    <td align="right" valign="middle" border="0">
+      <img src="img/logo_blanc.png" alt="Anna Costa Logo" width="130">
+    </td>
+  </tr>
+</table>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
 
