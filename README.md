@@ -1,28 +1,31 @@
 <p align="right">
-  <img src="img/logo_blanc.png" alt="Anna Costa Logo" width="100px">
+  <img src="img/logo_blanc.png" alt="Anna Costa Logo" width="150px">
 </p>
-<h1>Hi, I'm Anna 😎</h1>
+
+<h1 style="display: inline;">Hi, I'm Anna 😎</h1>
+
+<br/>
+
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
 
-
 <div>
-<p>🎓 Proactive Learner with a Passion for Growth </p>
-I am a Junior Full Stack Developer with a solid foundation in web technologies like HTML5, CSS3, and JavaScript, complemented by experience with frameworks such as React and Node.js. My backend expertise includes TypeScript and Python, alongside database management using MySQL and MongoDB.</p>
+<p>🎓 **Proactive Learner with a Passion for Growth**</p>
+<p>I am a Junior Full Stack Developer with a solid foundation in web technologies like HTML5, CSS3, and JavaScript, complemented by experience with frameworks such as React and Node.js. My backend expertise includes TypeScript and Python, alongside database management using MySQL and MongoDB.</p>
 
-<p>🚀 Skills That Drive Results </p>
-I specialize in crafting intuitive, efficient user interfaces and solving technical challenges through innovative solutions. My commitment to continuous learning—reflected in my completion of bootcamps and self-driven projects—ensures that I stay updated with the latest industry trends and tools.</p>
+<p>🚀 **Skills That Drive Results**</p>
+<p>I specialize in crafting intuitive, efficient user interfaces and solving technical challenges through innovative solutions. My commitment to continuous learning—reflected in my completion of bootcamps and self-driven projects—ensures that I stay updated with the latest industry trends and tools.</p>
 
-<p>💬 Building Connections Through Knowledge </p>
-I actively share my learning journey and experiences, sparking conversations and fostering meaningful connections. Whether through my coding projects or data analysis insights, I aim to contribute value to collaborative, dynamic teams.</p>
+<p>💬 **Building Connections Through Knowledge**</p>
+<p>I actively share my learning journey and experiences, sparking conversations and fostering meaningful connections. Whether through my coding projects or data analysis insights, I aim to contribute value to collaborative, dynamic teams.</p>
 
-<p>Let’s connect and create impactful solutions together!</p>
+<p><strong>Let’s connect and create impactful solutions together!</strong></p>
 </div>
 
 Currently, I'm a Community Team Member 🙍🏽‍♂️ [@annahico](https://github.com/annahico).
 
+---
 
-
-<h2>Languages and Tools:</h2> 
+## Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,13 +46,13 @@ Currently, I'm a Community Team Member 🙍🏽‍♂️ [@annahico](https://git
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annahico&layout=compact)](https://github.com/annahico/github-readme-stats)
 
+## 📈 My GitHub Stats:
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=annahico&count_private=true" alt="GitHub Stats">
+</p>
 
-<h2>📈 My GitHub Stats:</h2>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=annahico&count_private=true" alt="GitHub Stats"></p>
-  <a href="https://www.buymeacoffee.com/annahico" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-  </a>
-
+<a href="https://www.buymeacoffee.com/annahico" target="_blank" rel="noreferrer nofollow">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+</a>
