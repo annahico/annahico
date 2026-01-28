@@ -1,37 +1,33 @@
 <table width="100%">
-  <thead>
-    <tr>
-      <th width="100%" align="left">
-        <br>
-        <span style="font-size: 2.5em;">Hi, I'm Anna 😎</span>
-      </th>
-      <th align="right">
-        <img src="img/logo_blanc.png" alt="Anna Costa Logo" width="130">
-      </th>
-    </tr>
-  </thead>
+  <tr>
+    <td width="100%" align="left" style="border: none;">
+      <br>
+      <span style="font-size: 2.5em; font-weight: bold;">Hi, I'm Anna 😎</span>
+    </td>
+    <td align="right" style="border: none;">
+      <img src="logo_blanc.jpg" alt="Anna Costa Logo" width="130">
+    </td>
+  </tr>
 </table>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
 
 <div>
-<p>🎓 **Proactive Learner with a Passion for Growth**</p>
-<p>I am a Junior Full Stack Developer with a solid foundation in web technologies like HTML5, CSS3, and JavaScript, complemented by experience with frameworks such as React and Node.js. My backend expertise includes TypeScript and Python, alongside database management using MySQL and MongoDB.</p>
+<p>🎓 Proactive Learner with a Passion for Growth </p>
+I am a Junior Full Stack Developer with a solid foundation in web technologies like HTML5, CSS3, and JavaScript, complemented by experience with frameworks such as React and Node.js. My backend expertise includes TypeScript and Python, alongside database management using MySQL and MongoDB.</p>
 
-<p>🚀 **Skills That Drive Results**</p>
-<p>I specialize in crafting intuitive, efficient user interfaces and solving technical challenges through innovative solutions. My commitment to continuous learning—reflected in my completion of bootcamps and self-driven projects—ensures that I stay updated with the latest industry trends and tools.</p>
+<p>🚀 Skills That Drive Results </p>
+I specialize in crafting intuitive, efficient user interfaces and solving technical challenges through innovative solutions. My commitment to continuous learning—reflected in my completion of bootcamps and self-driven projects—ensures that I stay updated with the latest industry trends and tools.</p>
 
-<p>💬 **Building Connections Through Knowledge**</p>
-<p>I actively share my learning journey and experiences, sparking conversations and fostering meaningful connections. Whether through my coding projects or data analysis insights, I aim to contribute value to collaborative, dynamic teams.</p>
+<p>💬 Building Connections Through Knowledge </p>
+I actively share my learning journey and experiences, sparking conversations and fostering meaningful connections. Whether through my coding projects or data analysis insights, I aim to contribute value to collaborative, dynamic teams.</p>
 
-<p><strong>Let’s connect and create impactful solutions together!</strong></p>
+<p>Let’s connect and create impactful solutions together!</p>
 </div>
 
 Currently, I'm a Community Team Member 🙍🏽‍♂️ [@annahico](https://github.com/annahico).
 
----
-
-## Languages and Tools:
+<h2>Languages and Tools:</h2> 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -54,11 +50,8 @@ Currently, I'm a Community Team Member 🙍🏽‍♂️ [@annahico](https://git
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annahico&layout=compact)](https://github.com/annahico/github-readme-stats)
 
-## 📈 My GitHub Stats:
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=annahico&count_private=true" alt="GitHub Stats">
-</p>
-
+<h2>📈 My GitHub Stats:</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=annahico&count_private=true" alt="GitHub Stats"></p>
 <a href="https://www.buymeacoffee.com/annahico" target="_blank" rel="noreferrer nofollow">
-  <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+    <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
 </a>
