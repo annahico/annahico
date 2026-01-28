@@ -1,9 +1,9 @@
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%">
   <tr>
-    <td align="left" valign="middle" border="0">
+    <td>
       <h1>Hi, I'm Anna 😎</h1>
     </td>
-    <td align="right" valign="middle" border="0">
+    <td align="right">
       <img src="img/logo_blanc.png" alt="Anna Costa Logo" width="130">
     </td>
   </tr>
